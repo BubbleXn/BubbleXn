@@ -20,3 +20,56 @@
 Name:     Soren (@BubbleXn)
 Location: Singapore · Shanghai
 Focus:    AI Infrastructure · Agentic Systems · LLM Serving
+```
+
+I design and build production systems around **LLMs**, **multi-agent orchestration**, and **high-performance inference serving**.
+
+---
+
+## Tech Stack
+
+**Core**
+<p>
+  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=06b6d4" />
+</p>
+
+**AI / Agents / Vector**
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=langchain&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square&logo=pinecone&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Milvus-0F172A?style=flat-square&logo=milvus&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Multi_Agent-0F172A?style=flat-square&logo=robotframework&logoColor=06b6d4" />
+</p>
+
+**LLM Serving**
+<p>
+  <img src="https://img.shields.io/badge/LLM-0F172A?style=flat-square&logo=openai&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/vLLM-0F172A?style=flat-square&logo=nvidia&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/SGLang-0F172A?style=flat-square&logo=apachespark&logoColor=06b6d4" />
+</p>
+
+**Platform**
+<p>
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Harness_Engineering-0F172A?style=flat-square&logo=gitlab&logoColor=06b6d4" />
+</p>
+
+---
+
+## Featured Work
+
+- **[auto-researcher](https://github.com/BubbleXn/auto-researcher)** — Automated research pipeline
+- **[openpi-depth](https://github.com/BubbleXn/openpi-depth)** — Depth estimation with OpenPI
+- **[portfolio](https://github.com/BubbleXn/portfolio)** — Personal portfolio site
+
+---
+
+## Connect
+
+<p>
+  <a href="https://github.com/BubbleXn"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=06b6d4" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=06b6d4" /></a>
+</p>
